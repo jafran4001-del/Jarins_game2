@@ -1,0 +1,6 @@
+{
+  "name": "Zombie Outbreak: Coin Survivor",
+  "description": "Top-down retro zombie survival game featuring dynamic procedural background music, collectible coins, arsenal upgrades, and intense wave defense.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
